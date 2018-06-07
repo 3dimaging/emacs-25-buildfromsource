@@ -1,0 +1,22 @@
+* 工作安排
+
+** TODO [#B] review emacs settings
+
+** TODO [#B] read novels
+
+** TODO cat-I website 
+   DEADLINE: <2017-11-15 Wed>
+
+* kids
+
+** Sheryl
+
+*** TODO robot seminar sunday 12:00pm -1:30pm
+    DEADLINE: <2017-11-02 Thu>
+
+** Andrew 
+
+*** DONE contact yoko for extend andrew's time.
+    DEADLINE: <2017-11-15 Wed>
+
+

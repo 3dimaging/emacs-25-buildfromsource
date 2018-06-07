@@ -1,0 +1,59 @@
+ls -l
+ls -la
+cd~
+cd ~
+ls .
+cd /Volumes/
+ls .
+cd WZL011518/
+ls .
+cd NIH-file/
+ls .
+find-file GTD-NIH.org 
+ssh -X liw17@biowulf.nih.gov
+ls  .
+clear
+
+cd /Volumes/
+ls 
+ls .
+cd WZL011518/
+ls .
+cd NIH-files/
+ls .
+cd ..
+cd NIH-file
+ls .
+find-files GTD-NIH.org 
+find-file GTD-NIH.org 
+cd ..
+which python
+python --version
+brew install python
+brew upgrade python
+pip3 install ipython
+sudo pip install --upgrade pip
+sudo pip3 install ipython
+sudo pip3 install --upgrade pip
+python --version
+python3
+ipython
+python3 --version
+alias python=python3
+python --version
+sudo alias python='/usr/local/bin/python3'
+python --version
+which python
+sudo pip3 install ipython
+sudo -H pip3 install ipython
+sudo -H pip3 install pyzmq
+sudo -H pip3 install jinja2
+sudo -H pip3 install tornade
+sudo -H pip3 install tornado
+ipython
+ipython3 notebook
+sudo -H pip3 install ipython3
+ipython3 notebook
+notebook
+python notebook
+python3
